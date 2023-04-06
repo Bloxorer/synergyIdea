@@ -1,19 +1,7 @@
 package Homework;
 
 public class Homework_1 {
-    // цены за вещи
-    double palto = 70;
-    double hat = 25;
-    double costume = 53;
-    double sorchka = 19;
-    double tufli = 41;
 
-    // скидки
-
-    double discpalto = 77;
-    double dischat = 37;
-    double disccostume = 44;
-    double disctufli = 32;
 
     static double person = 312;
 
